@@ -1,4 +1,5 @@
 # DeepQuantInChina
+not finish yet.
 Use Deep Learning techniques to trade in Chinese Financial Market. (Algorithm Trading)
 ![image](https://github.com/bladezzw/DeepQuantInChina/blob/master/Selection_121.bmp)
 
